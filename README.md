@@ -1,9 +1,9 @@
 # light_lookup_mobile
 an easy-to-use ip lookup and e-mail finder
 crée a but éducatif seulement par bcrblacki et lightning ;)
------------------------
-install / ISH / TERMUX|
------------------------
+---------------
+install / ISH |
+---------------
 1) apk add python3
 2) apk add py3-pip
 3) apk add git
